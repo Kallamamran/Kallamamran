@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kallamamran
 - 👀 I’m interested in AI, computer graphics, computer games and modding
-- 🌱 I’m currently learning to mod Skyrim with Wabbajack
+- 🌱 I’m currently learning as much as mu limited brain can handle when it comes to "AI" images generation with diffusion
 - 💞️ I’m looking to collaborate on don't know
 - 📫 How to reach me... Message me on GitHub
 
